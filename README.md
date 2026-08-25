@@ -36,90 +36,167 @@ contains customer details such as Country, Age, Salary, and Purchased.
 Publicly Available Dataset
 1. A publicly available dataset is a collection of data that is made accessible to
 students, researchers, developers, or the general public.
+
 2. It can usually be downloaded or accessed online for analysis and research.
+  
 3. Public datasets are commonly used for:
+
 a) Data Analytics
+
 b) Data Science
+
 c) Machine Learning
+
 d) Artificial Intelligence
+
 e) Research
+
 f) Laboratory experiments
-5. Public datasets may be available in formats such as:
+
+4. Public datasets may be available in formats such as:
+
 a) CSV
+
 b) Excel
+
 c) JSON
+
 d) XML
+
 e) Text
+
 f) Images
+
 g) Audio
-6. Examples of public dataset sources:
+
+5. Examples of public dataset sources:
+
 a) UCI Machine Learning Repository
+
 b) Kaggle
+
 c) Government Open Data Portals
+
 d) Google BigQuery Public Datasets
-7. India's Open Government Data Platform (data.gov.in) provides publicly
+
+6. India's Open Government Data Platform (data.gov.in) provides publicly
 accessible datasets in areas such as education, health, environment, economy,
 and science and technology.
-8. Public datasets are useful because they allow students to practice analytics
+
+7. Public datasets are useful because they allow students to practice analytics
 without collecting data themselves.
-9. Examples:
+
+8. Examples:
+
 a) Iris Dataset – flower classification
+
 b) Heart Disease Dataset – healthcare analysis
+
 c) Student Performance Dataset – education analytics
+
 d) Online Retail Dataset – customer purchasing analysis
+
 e) Weather Dataset – environmental analysis
+
 Real-Time Dataset
-10. A real-time dataset contains data that is generated or collected continuously
+
+9. A real-time dataset contains data that is generated or collected continuously
 from a real-world system.
-11. The data is made available for processing and analysis immediately or with
+
+10. The data is made available for processing and analysis immediately or with
 very little delay after it is generated.
-12. Real-time data is often produced by:
+
+11. Real-time data is often produced by:
+
 a) Sensors
+
 b) IoT devices
+
 c) Mobile applications
+
 d) GPS devices
+
 e) Smart meters
+
 f) Websites
+
 g) Financial systems
+
 h) Medical devices
-13. Real-time data can continuously change as new observations arrive.
-14. It is commonly used for real-time monitoring, prediction, and decision-making.
+
+12. Real-time data can continuously change as new observations arrive.
+
+13. It is commonly used for real-time monitoring, prediction, and decision-making.
 
 # EXAMPLE
 1. Smart Traffic
+
 a) Vehicle speed
+
 b) Vehicle count
+
 c) Traffic density
+
 d) Location
+
 2. Smart Grid
+
 a) Electricity consumption
+
 b) Voltage
+
 c) Current
+
 d) Power usage
+
 e) Smart-meter readings
+
 3. Healthcare
+
 a) Heart rate
+
 b) Blood pressure
+
 c) Temperature
+
 d) Oxygen level
+
 4. Weather
+
 a) Temperature
+
 b) Humidity
+
 c) Rainfall
+
 d) Wind speed
+
 5. Banking
+
 a) Transactions
+
 b) Payments
+
 c) Account activity
+
 6. E-Commerce
+   
 a) Customer clicks
+
 b) Product views
+
 c) Orders
+
 d) Purchases
-7. Transportation
+
+8. Transportation
+
 a) Vehicle location
+
 b) Speed
+
 c) Travel time
+
 d) Traffic conditions
 
 # RESULT
