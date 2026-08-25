@@ -38,88 +38,89 @@ Publicly Available Dataset
 students, researchers, developers, or the general public.
 2. It can usually be downloaded or accessed online for analysis and research.
 3. Public datasets are commonly used for:
-o Data Analytics
-o Data Science
-o Machine Learning
-o Artificial Intelligence
-o Research
-o Laboratory experiments
-4. Public datasets may be available in formats such as:
-o CSV
-o Excel
-o JSON
-o XML
-o Text
-o Images
-o Audio
-5. Examples of public dataset sources:
-o UCI Machine Learning Repository
-o Kaggle
-o Government Open Data Portals
-o Google BigQuery Public Datasets
-6. India's Open Government Data Platform (data.gov.in) provides publicly
+a) Data Analytics
+b) Data Science
+c) Machine Learning
+d) Artificial Intelligence
+e) Research
+f) Laboratory experiments
+5. Public datasets may be available in formats such as:
+a) CSV
+b) Excel
+c) JSON
+d) XML
+e) Text
+f) Images
+g) Audio
+6. Examples of public dataset sources:
+a) UCI Machine Learning Repository
+b) Kaggle
+c) Government Open Data Portals
+d) Google BigQuery Public Datasets
+7. India's Open Government Data Platform (data.gov.in) provides publicly
 accessible datasets in areas such as education, health, environment, economy,
 and science and technology.
-7. Public datasets are useful because they allow students to practice analytics
+8. Public datasets are useful because they allow students to practice analytics
 without collecting data themselves.
-8. Examples:
-o Iris Dataset – flower classification
-o Heart Disease Dataset – healthcare analysis
-o Student Performance Dataset – education analytics
-o Online Retail Dataset – customer purchasing analysis
-o Weather Dataset – environmental analysis
+9. Examples:
+a) Iris Dataset – flower classification
+b) Heart Disease Dataset – healthcare analysis
+c) Student Performance Dataset – education analytics
+d) Online Retail Dataset – customer purchasing analysis
+e) Weather Dataset – environmental analysis
 Real-Time Dataset
-9. A real-time dataset contains data that is generated or collected continuously
+10. A real-time dataset contains data that is generated or collected continuously
 from a real-world system.
-10. The data is made available for processing and analysis immediately or with
+11. The data is made available for processing and analysis immediately or with
 very little delay after it is generated.
-11. Real-time data is often produced by:
-o Sensors
-o IoT devices
-o Mobile applications
-o GPS devices
-o Smart meters
-o Websites
-o Financial systems
-o Medical devices
-12. Real-time data can continuously change as new observations arrive.
-13. It is commonly used for real-time monitoring, prediction, and decision-making.
-Examples
+12. Real-time data is often produced by:
+a) Sensors
+b) IoT devices
+c) Mobile applications
+d) GPS devices
+e) Smart meters
+f) Websites
+g) Financial systems
+h) Medical devices
+13. Real-time data can continuously change as new observations arrive.
+14. It is commonly used for real-time monitoring, prediction, and decision-making.
+
+# EXAMPLE
 1. Smart Traffic
-o Vehicle speed
-o Vehicle count
-o Traffic density
-o Location
+a) Vehicle speed
+b) Vehicle count
+c) Traffic density
+d) Location
 2. Smart Grid
-o Electricity consumption
-o Voltage
-o Current
-o Power usage
-o Smart-meter readings
+a) Electricity consumption
+b) Voltage
+c) Current
+d) Power usage
+e) Smart-meter readings
 3. Healthcare
-o Heart rate
-o Blood pressure
-o Temperature
-o Oxygen level
+a) Heart rate
+b) Blood pressure
+c) Temperature
+d) Oxygen level
 4. Weather
-o Temperature
-o Humidity
-o Rainfall
-o Wind speed
+a) Temperature
+b) Humidity
+c) Rainfall
+d) Wind speed
 5. Banking
-o Transactions
-o Payments
-o Account activity
+a) Transactions
+b) Payments
+c) Account activity
 6. E-Commerce
-o Customer clicks
-o Product views
-o Orders
-o Purchases
+a) Customer clicks
+b) Product views
+c) Orders
+d) Purchases
 7. Transportation
-o Vehicle location
-o Speed
-o Travel time
-o Traffic conditions
+a) Vehicle location
+b) Speed
+c) Travel time
+d) Traffic conditions
 
 # RESULT
 Thus, the dataset and data analytics concepts were studied successfully, including
